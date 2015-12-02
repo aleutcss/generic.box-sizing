@@ -1,5 +1,5 @@
 {
-  "name": "aleut-box-sizing",
+  "name": "@aleut/aleut-box-sizing",
   "version": "0.3.0",
   "description": "Global box sizing rules for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_generic.box-sizing.scss",
