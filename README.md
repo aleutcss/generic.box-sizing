@@ -5,6 +5,6 @@ The aleutcss `box-sizing` module causes all elements to use the more useful
 
 
 
-Install using npm:
+## Install using npm:
 
     $ npm install --save-dev aleut-box-sizing
