@@ -7,4 +7,4 @@ The aleutcss `box-sizing` module causes all elements to use the more useful
 
 ## Install using npm:
 
-    $ npm install --save-dev aleut-box-sizing
+    $ npm install --save-dev @aleut/generic.box-sizing
